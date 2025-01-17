@@ -84,10 +84,3 @@ The system provides an intuitive menu-driven interface with the following option
 4. **Purchase Vehicle**: Complete vehicle purchases with invoice generation.  
 5. **View Customers**: Display all customer details and their purchase history.  
 6. **Exit**: Safely exit the system.  
-
-## 📈 Future Expandability  
-The system is designed for scalability, allowing for:  
-- Integration with real-time inventory updates.  
-- Advanced analytics for vehicle sales trends.  
-- Expanded vehicle attributes and management capabilities.  
-
