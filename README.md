@@ -10,32 +10,33 @@ The project is structured using modular programming principles for clarity, scal
 
 ## 📄 Project Description  
 DreamWheels provides a comprehensive solution for vehicle inventory and purchase management, including:  
-- Adding and managing vehicles across categories (cars, motorcycles, trucks).  
+- Adding and managing vehicles across categories (🚗 cars, 🏍️ motorcycles, 🚚 trucks).  
 - Associating customers with purchased vehicles.  
 - Generating detailed invoices with payment tracking, including installment options.  
-- Searching and sorting vehicles based on various criteria (price, engine type, color, etc.).  
+- Searching and sorting vehicles based on various criteria (price, engine type, color).  
 
 ### Key Features:  
-1. **Vehicle Management**:  
-   - Add new vehicles to the system.  
-   - Display vehicles categorized by type (car, motorcycle, truck).  
-   - Print all vehicles currently in stock with detailed information.  
 
-2. **Customer Management**:  
-   - Add and manage customer details.  
-   - Associate customers with their purchased vehicles.  
+#### 🚗 Vehicle Management:  
+- Add new vehicles to the system.  
+- Display vehicles categorized by type (car, motorcycle, truck).  
+- Print all vehicles currently in stock with detailed information.  
 
-3. **Order Management**:  
-   - Process vehicle purchases, including employee discount validation.  
-   - Generate invoices for purchases, tracking payment status and delivery date.  
+#### 👤 Customer Management:  
+- Add and manage customer details.  
+- Associate customers with their purchased vehicles.  
 
-4. **Advanced Search and Sorting**:  
-   - Search for vehicles using parameters like price range, engine type, and color.  
-   - Sort vehicles based on selected criteria.  
+#### 📦 Order Management:  
+- Process vehicle purchases, including employee discount validation.  
+- Generate invoices for purchases, tracking payment status and delivery date.  
 
-5. **Invoice Management**:  
-   - View and print all generated invoices.  
-   - Track payment details for each purchase.  
+#### 🔍 Advanced Search and Sorting:  
+- Search for vehicles using parameters like price range, engine type, and color.  
+- Sort vehicles based on selected criteria.  
+
+#### 🧾 Invoice Management:  
+- View and print all generated invoices.  
+- Track payment details for each purchase.  
 
 ## ⚙️ Program Structure  
 The system is divided into modular components, each responsible for specific functionalities:  
