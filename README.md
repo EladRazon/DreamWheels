@@ -9,7 +9,7 @@
 The project is structured using modular programming principles for clarity, scalability, and efficiency.  
 
 ## 📄 Project Description  
-📄 **[View the complete Class Diagram (PDF)](Class%20Diagram.pdf)**  
+📊 **[View the complete Class Diagram (PDF)](Class%20Diagram.pdf)**  
 DreamWheels provides a comprehensive solution for vehicle inventory and purchase management, including:  
 - Adding and managing vehicles across categories (🚗 cars, 🏍️ motorcycles, 🚚 trucks).  
 - Associating customers with purchased vehicles.  
